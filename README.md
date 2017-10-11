@@ -21,9 +21,8 @@ Hi, my name is Stanley Mei. I'm from Brooklyn, New York. I go to HSTAT. I am cur
     8. English
     
 ### Things I enjoy doing
-
-    * Playing games on my computer
-    * Building computers
-    * Riding my bike
+ * Playing games on my computer
+ * Building computers
+ * Riding my bike
 
     
