@@ -7,7 +7,7 @@ _Student_
 
 [stanleym1379@hstat.org](stanleym1379@hstat.org)
 
-Hi, my name is Stanley Mei. I'm from Brooklyn, New York. I go to HSTAT. I am currently a Junior. I like using computers. 
+Hi, my name is Stanley Mei. I'm from Brooklyn, New York. I go to HSTAT. I am currently a Junior. 
 
 ### Schedule
 
@@ -19,3 +19,11 @@ Hi, my name is Stanley Mei. I'm from Brooklyn, New York. I go to HSTAT. I am cur
     6. AP Calculus
     7. SEP11
     8. English
+    
+### Things I enjoy doing
+
+    * Playing games on my computer
+    * Building computers
+    * Riding my bike
+
+    
