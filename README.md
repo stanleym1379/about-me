@@ -3,7 +3,7 @@
 _Student_
 
 
-# **High School of Telecommunication Arts and Technology**
+## **High School of Telecommunication Arts and Technology**
 
 [stanleym1379@hstat.org](stanleym1379@hstat.org)
 
