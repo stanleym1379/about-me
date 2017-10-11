@@ -1,4 +1,4 @@
-#Stanley Mei
+# Stanley Mei
 
 _Student_
 
@@ -9,7 +9,7 @@ _Student_
 
 Hi, my name is Stanley Mei. I'm from Brooklyn, New York. I go to HSTAT. I am currently a Junior. I like using computers. 
 
-#Schedule
+# Schedule
 
     1. Spanish
     2. Earth Science
