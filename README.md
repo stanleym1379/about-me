@@ -22,7 +22,7 @@ Hi, my name is Stanley Mei. I'm from Brooklyn, New York. I go to HSTAT. I am cur
     
 ### Things I enjoy doing
  * Playing games on my computer
-    * Comes from my dad 
+   * Comes from my dad 
  * Building computers
  * Riding my bike
 
